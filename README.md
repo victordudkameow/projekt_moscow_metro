@@ -30,5 +30,6 @@
 ## Авторы:
 
 - Студенты 2 курса ФГГТ НИУ ВШЭ: Воронцов Александр, Никитин Артем, Сарсынгалиева Залина
+- Данные: https://www.kaggle.com/datasets/lisaignatenko/moscow-metro-stations 
 ---
 
