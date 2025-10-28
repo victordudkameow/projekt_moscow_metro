@@ -1,5 +1,5 @@
 # Анализ инфраструктуры московского метро
-<img width="1280" height="880" alt="image" src="https://github.com/user-attachments/assets/9847c723-b406-4c65-abe8-0368160f23cb" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9847c723-b406-4c65-abe8-0368160f23cb" />
 
 Этот проект посвящён анализу наличия различных услуг и объектов инфраструктуры на станциях московского метро. Основное внимание уделено двум аспектам:
 
